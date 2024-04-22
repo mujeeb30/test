@@ -1,3 +1,3 @@
 # my first repo
-this is first example
-this a seocnd exapmle
+
+this a seocnd exapmle to add changes to your local files
